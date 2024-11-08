@@ -54,8 +54,7 @@ int main() {
 }
 ```
 ### output
-<img src="attachments/Pasted%20image%2020241108173509.png" width="400">
-<br>
+<img src="attachments/Pasted%20image%2020241108173509.png" width="400"><br>
 <img src="attachments/Pasted%20image%2020241108173527.png" width="400">
 
 ## 2. Write a C program to check whether the given number is an armstrong number or not.
@@ -82,11 +81,8 @@ int main() {
 }
 ```
 ### output
-<img src="attachments/Pasted%20image%2020241108173209.png" width="400">
-<br>
-<img src="attachments/Pasted%20image%2020241108173245.png" width="400">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020241108173209.png" width="400"><br>
+<img src="attachments/Pasted%20image%2020241108173245.png" width="400"><br>
 
 # Lab - 02
 ## 1. Write a C program to calculate the mean of a given set of numbers using arrays
@@ -147,9 +143,7 @@ int main() {
 }
 ```
 ### output
-<img src="attachments/Pasted%20image%2020241108173841.png" width="300">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020241108173841.png" width="300"><br>
 
 # Lab - 03
 ## Write a c++ program to implement classes and objects.
@@ -230,11 +224,8 @@ int main() {
 }
 ```
 ### output
-<img src="attachments/Pasted%20image%2020241108174136.png" width="600">
-<br>
-<img src="attachments/Pasted%20image%2020241108174154.png" width="550">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020241108174136.png" width="600"><br>
+<img src="attachments/Pasted%20image%2020241108174154.png" width="550"><br>
 
 # Lab - 04
 ## Write a C++ program to implement default arguments based on your domain
@@ -289,9 +280,7 @@ int main() {
 ```
 
 ### output
-<img src="attachments/Pasted%20image%2020240829121845.png" width="300">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020240829121845.png" width="300"><br>
 
 # Lab - 05
 ## Write a C++ program to implement default, parameterized and copy constructor based on your domain.
@@ -372,9 +361,7 @@ int main() {
 }
 ```
 ### output
-<img src="attachments/Pasted%20image%2020240829122320.png" width="500">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020240829122320.png" width="500"><br>
 
 # Lab - 06
 ## Write a C++ program to demonstrate constructor overloading with array of objects
@@ -472,17 +459,11 @@ int main() {
 }
 ```
 ### output
-<img src="attachments/Pasted%20image%2020240906124540.png" width="500">
-<br>
-<img src="attachments/Pasted%20image%2020240906124558.png" width="300">
-<br>
-<img src="attachments/Pasted%20image%2020240906124613.png" width="400">
-<br>
-<img src="attachments/Pasted%20image%2020240906124626.png" width="400">
-<br>
-<img src="attachments/Pasted%20image%2020240906124638.png" width="300">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020240906124540.png" width="500"><br>
+<img src="attachments/Pasted%20image%2020240906124558.png" width="300"><br>
+<img src="attachments/Pasted%20image%2020240906124613.png" width="400"><br>
+<img src="attachments/Pasted%20image%2020240906124626.png" width="400"><br>
+<img src="attachments/Pasted%20image%2020240906124638.png" width="300"><br>
 
 # Lab - 07
 ## Write a C++ program to implement pass by value,  pass by reference and returning reference
@@ -727,9 +708,7 @@ int main() {
 <img src="attachments/Pasted%20image%2020240913222038.png" width="300"><br>
 <img src="attachments/Pasted%20image%2020240913222104.png" width="300"><br>
 <img src="attachments/Pasted%20image%2020240913222121.png" width="300"><br>
-<img src="attachments/Pasted%20image%2020240913222142.png" width="300">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020240913222142.png" width="300"><br>
 
 # Lab - 08
 ## Write a C++ program to implement function overloading based on your domain
@@ -1054,10 +1033,7 @@ int main() {
 <img src="attachments/Pasted%20image%2020240914123905.png" width="300"><br>
 <img src="attachments/Pasted%20image%2020240914123917.png" width="600"><br>
 <img src="attachments/Pasted%20image%2020240914123936.png" width="300"><br>
-<img src="attachments/Pasted%20image%2020240914123954.png" width="300">
-
-
-<br><br>
+<img src="attachments/Pasted%20image%2020240914123954.png" width="300"><br>
 
 # Lab - 09
 ## Write a C++ program to implement static functions using your own domain
@@ -1401,9 +1377,7 @@ int main() {
 <img src="attachments/Pasted%20image%2020240925120153.png" width="400"><br>
 <img src="attachments/Pasted%20image%2020240925120214.png" width="400"><br>
 <img src="attachments/Pasted%20image%2020240925120228.png" width="400"><br>
-<img src="attachments/Pasted%20image%2020240925120242.png" width="400">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020240925120242.png" width="400"><br>
 
 
 # Lab - 10
@@ -1585,9 +1559,7 @@ int main() {
 <img src="attachments/Pasted%20image%2020240928154013.png" width="300"><br>
 <img src="attachments/Pasted%20image%2020240928154027.png" width="300"><br>
 <img src="attachments/Pasted%20image%2020240928154043.png" width="300"><br>
-<img src="attachments/Pasted%20image%2020240928154058.png" width="300">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020240928154058.png" width="300"><br>
 
 
 # Lab - 11
@@ -1650,9 +1622,7 @@ int main() {
 }
 ```
 ### output
-<img src="attachments/Pasted%20image%2020240928230516.png" width="400">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020240928230516.png" width="400"><br>
 
 # Lab - 12
 ## Write a C++ program to implement dynamic memory allocation and deallocation new and delete using constructors and destructors.
@@ -1716,9 +1686,7 @@ int main() {
 }
 ```
 ### output
-<img src="attachments/Pasted%20image%2020241004104407.png" width="300">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020241004104407.png" width="300"><br>
 
 # Lab - 13
 ## Write a C++ program to implement friend functions based on your domain
@@ -2061,9 +2029,7 @@ int main() {
 <img src="attachments/Pasted%20image%2020240925120153.png" width="400"><br>
 <img src="attachments/Pasted%20image%2020240925120214.png" width="400"><br>
 <img src="attachments/Pasted%20image%2020240925120228.png" width="400"><br>
-<img src="attachments/Pasted%20image%2020240925120242.png" width="400">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020240925120242.png" width="400"><br>
 
 
 # Lab - 14
@@ -2231,9 +2197,7 @@ int main() {
 <img src="attachments/Pasted%20image%2020241014151531.png" width="300"><br>
 <img src="attachments/Pasted%20image%2020241014151542.png" width="300"><br>
 <img src="attachments/Pasted%20image%2020241014151553.png" width="300"><br>
-<img src="attachments/Pasted%20image%2020241014151606.png" width="300">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020241014151606.png" width="300"><br>
 
 # Lab - 15
 ## Write a c++ program to implement multiple and hybrid inheritance
@@ -2459,9 +2423,7 @@ int main() {
 <img src="attachments/Pasted%20image%2020241017111450.png" width="300"><br>
 <img src="attachments/Pasted%20image%2020241017111504.png" width="300"><br>
 <img src="attachments/Pasted%20image%2020241017111513.png" width="300"><br>
-<img src="attachments/Pasted%20image%2020241017111521.png" width="300">
-
-<br><br>
+<img src="attachments/Pasted%20image%2020241017111521.png" width="300"><br>
 
 # Lab - 16
 ## Write a C++ program to implement virtual functions
